@@ -1,0 +1,323 @@
+{
+	"logo": "/img/icons/logo.png",
+	"titulo": "Lucas",
+	"subtitulo": "Fotógrafa profesional", 
+	"descripcion": "",
+	"poweredBy": "RappidTech",
+	"enlacePrincipal": "https://rappidtech.com/links/demo9",
+	"enlacePrinCorto": "rappidtech.com/links",
+	"enlaceRappid": "https://rappidtech.com/links",
+	"redes": [
+		{
+			"icon": "faInstagram",
+			"iconImg": "",
+			"nombre": "Instagram",
+			"url": "https://rappidtech.com/links",
+			"render": "no"
+		},
+		{
+			"icon": "faTiktok",
+			"iconImg": "",
+			"nombre": "Tiktok",
+			"url": "https://rappidtech.com/links",
+			"render": "no"
+			},
+		{
+			"icon": "faGlobe",
+			"iconImg": "",
+			"nombre": "Youtube",
+			"url": "https://rappidtech.com/links",
+			"render": "no"
+		},
+		{
+			"icon": "faWhatsapp",
+			"iconImg": "",
+			"nombre": "Whatsapp",
+			"url": "https://wa.me/5493814094843?text=Hola%2C%20me%20gustar%C3%ADa%20saber%20m%C3%A1s%20sobre%20sus%20productos",
+			"render": "no"
+		},
+		{
+			"icon": "faFacebook",
+			"iconImg": "/img/svg/facebook.svg",
+			"nombre": "Facebook",
+			"url": "https://m.facebook.com/people/Panificaci%C3%B3n-MaGopan/100071715284389/",
+			"render": "si"
+		},
+		{
+			"icon": "faTwitter",
+			"iconImg": "/img/svg/twitter.svg",
+			"nombre": "Twitter",
+			"url": "https://twitter.com",
+			"render": "si"
+		},
+		{
+			"icon": "faLinkedin",
+			"iconImg": "/img/svg/linkedin.svg",
+			"nombre": "Linkedin",
+			"url": "https://www.linkedin.com/company/rappid-tech/?viewAsMember=true",
+			"render": "si"
+		},
+		{
+			"icon": "faPinterest",
+			"iconImg": "./facebook-icon.svg",
+			"nombre": "Pinterest",
+			"url": "https://pinterest.com",
+			"render": "no"
+		},
+		{
+			"icon": "faSnapchat",
+			"iconImg": "./facebook-icon.svg",
+			"nombre": "Snapchat",
+			"url": "https://snapchat.com",
+			"render": "no"
+		},
+		{
+			"icon": "faTelegram",
+			"iconImg": "./facebook-icon.svg",
+			"nombre": "Telegram",
+			"url": "https://telegram.com",
+			"render": "no"
+		},
+		{
+			"icon": "faSpotify",
+			"iconImg": "./facebook-icon.svg",
+			"nombre": "Spotify",
+			"url": "https://spotify.com",
+			"render": "no"
+		},
+		{
+			"icon": "faSoundcloud",
+			"iconImg": "./facebook-icon.svg",
+			"nombre": "Soundcloud",
+			"url": "https://soundcloud.com",
+			"render": "no"
+		},
+		{
+			"icon": "faGithub",
+			"iconImg": "./facebook-icon.svg",
+			"nombre": "Github",
+			"url": "https://github.com",
+			"render": "no"
+		},
+		{
+			"icon": "faTwitch",
+			"iconImg": "./facebook-icon.svg",
+			"nombre": "Twitch",
+			"url": "https://twitch.com",
+			"render": "no"
+		}
+	],
+	"enlaces": [
+		{ 
+		"icon": "faInstagram",
+		"iconImg": "/img/svg/behance.svg",
+		"nombre": "Behance",
+		"url": "https://rappidtech.com/links",
+		"render": "si",
+		"newColor": "no",
+		"accordion": "si"        
+		},
+		{ 
+		"icon": "faWhatsapp",
+		"iconImg": "/img/svg/portfolio.svg",
+		"nombre": "Portfolio",
+		"url": "https://rappidtech.com/links",
+		"render": "si",
+		"newColor": "no",
+		"accordion": "si"
+		},
+		{ 
+		"icon": "faWhatsapp",
+		"iconImg": "/img/svg/dribbble.svg",
+		"nombre": "Dribbble",
+		"url": "https://rappidtech.com/links/",
+		"render": "si",
+		"newColor": "no",
+		"accordion": "si"
+		},
+		{ 
+		"icon": "faLinkedin",
+		"iconImg": "/img/svg/linkedin.svg",
+		"nombre": "Linkedin",
+		"url": "https://rappidtech.com/links",
+		"render": "si",
+		"newColor": "no",
+		"accordion": "si" 
+		},
+		{ 
+		"icon": "faGithub",
+		"iconImg": "/img/svg/github.svg",
+		"nombre": "GitHub",
+		"url": "https://rappidtech.com/links",
+		"render": "no",
+		"newColor": "no",
+		"accordion": "no" 
+		},
+		{ 
+		"icon": "faFacebook",
+		"iconImg": "/img/svg/upwork.svg",
+		"nombre": "Facebook",
+		"url": "https://m.facebook.com/people/Panificaci%C3%B3n-MaGopan/100071715284389/",
+		"render": "no",
+		"newColor": "no",
+		"accordion": "no" 
+		},
+		{ 
+		"icon": "faPedidosYa",
+		"iconImg": "./pedidos-ya.svg",
+		"nombre": "Pedidos Ya! SM Tucumán",
+		"url": "https://www.pedidosya.com.ar/restaurantes/san-miguel-de-tucuman/magopan-607d3071-805f-41fc-91a8-c34601b27931-menu",
+		"render": "no",
+		"newColor": "no",
+		"accordion": "no" 
+		},
+		{ 
+		"icon": "faPedidosYa",
+		"iconImg": "./pedidos-ya.svg",
+		"nombre": "Pedidos Ya! Yerba Buena",
+		"url": "https://www.pedidosya.com.ar/restaurantes/yerba-buena/magopan-yerba-buena-60b80050-0b5b-4083-a74c-175e415e39fb-menu",
+		"render": "no",
+		"newColor": "no",
+		"accordion": "no" 
+		},
+		{ 
+		"icon": "faLinkedin",
+		"iconImg": "",
+		"nombre": "Linkedin",
+		"url": "https://www.linkedin.com/company/rappid-tech/?viewAsMember=true",
+		"render": "no",
+		"newColor": "no",
+		"accordion": "no" 
+		},
+		{ 
+		"icon": "",
+		"iconImg": "",
+		"nombre": "Enlace 8",
+		"url": "https://enlace8.com",
+		"render": "no",
+		"newColor": "no",
+		"accordion": "no" 
+		},
+		{ 
+		"icon": "",
+		"iconImg": "",
+		"nombre": "Enlace 9",
+		"url": "https://enlace9.com",
+		"render": "no",
+		"newColor": "no",
+		"accordion": "no" 
+		},
+		{ 
+		"icon": "",
+		"iconImg": "",
+		"nombre": "Enlace 10",
+		"url": "https://enlace10.com",
+		"render": "no",
+		"newColor": "no",
+		"accordion": "no" 
+		}
+	],
+	"carrusel":[
+			{
+				"img": [
+					"/img/icons/producto1.png", 
+					"/img/icons/producto2.png", 
+					"/img/icons/producto3.png",
+					"/img/icons/producto4.png"
+				],
+				"titulo": [
+					"", 
+					"", 
+					"",
+					""
+				],
+				"descripcion": [
+					"", 
+					"", 
+					"",
+					""
+				]
+			}, 
+			{
+				"img": [
+					"/img/icons/producto1.png", 
+					"/img/icons/producto2.png", 
+					"/img/icons/producto3.png",
+					"/img/icons/producto4.png"
+				],
+				"titulo": [
+					"", 
+					"", 
+					"",
+					""
+				],
+				"descripcion": [
+					"", 
+					"", 
+					"",
+					""
+				]
+			},
+			{
+				"img": [
+					"/img/icons/producto1.png", 
+					"/img/icons/producto2.png", 
+					"/img/icons/producto3.png",
+					"/img/icons/producto4.png"
+				],
+				"titulo": [
+					"", 
+					"", 
+					"",
+					""
+				],
+				"descripcion": [
+					"", 
+					"", 
+					"",
+					""
+				]
+			},
+			{
+				"img": [
+					"/img/icons/producto1.png", 
+					"/img/icons/producto2.png", 
+					"/img/icons/producto3.png",
+					"/img/icons/producto4.png"
+				],
+				"titulo": [
+					"", 
+					"", 
+					"",
+					""
+				],
+				"descripcion": [
+					"", 
+					"", 
+					"",
+					""
+				]
+			},
+			{
+				"img": [
+					"/img/icons/producto1.png", 
+					"/img/icons/producto2.png", 
+					"/img/icons/producto3.png",
+					"/img/icons/producto4.png"
+				],
+				"titulo": [
+					"", 
+					"", 
+					"",
+					""
+				],
+				"descripcion": [
+					"", 
+					"", 
+					"",
+					""
+				]
+			}
+	]
+}
+

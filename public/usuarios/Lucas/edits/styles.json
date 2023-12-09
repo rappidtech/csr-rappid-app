@@ -1,0 +1,77 @@
+{
+    "general": {
+      "backgroundColor": "lightgreen", 
+      "headerBackground": "",
+      "headerBackgroundSize": "cover",
+      "headerBackgroundPosition": "center",
+      "headerBackgroundRepeat": "",
+      "headerHeight": "15vh",
+      "headerWidth": "100vw",
+      "headerPosition": "absolute"
+    },
+    "logo": {
+      "margin": "15vh 0 0 0",
+      "logoSize": "14vh"
+    },
+    "titulo": {
+      "margin": "5vh 0 0 0",
+      "colorTexto": "#1F1F29",
+      "fontSize": "1.5rem",
+      "textTransform": "none"
+    },
+    "subtitulo": {
+      "margin": "0vh 0 0vh 0",
+      "colorTexto": "#1F1F29",
+      "fontSize": "0.8rem",
+      "fontWeigth": "regular",
+      "textTransform": "none"
+    },
+    "descripcion": {
+      "colorTexto": "#1F1F29",
+      "fontSize": "1rem",
+      "fontWeigth": "bold",
+      "textTransform": "none"
+    },
+    "enlaces": {
+      "colorTexto": "#1F1F29", 
+      "colorFondo": "#D5E5E6",
+      "colorHover": "#BFD6D7",
+      "colorActive": "#A3B6B7",
+      "borderRadius": "10px",
+      "colorIcon": "#1F1F29",
+      "fontWeigth": "600",
+      "fontSize": "1.5rem",
+      "textTransform": "none",
+      "scaleLink": "scale(1)",
+      "margin": "5px 0",
+      "padding": "8px 20px",
+      "border": "1px solid #5A7374",  
+      "justifyContent": "space-between",   
+      "widthMD": "30vw",
+      "widthSM": "70vw",
+      "leftIcon": "icon-link",
+      "rightIcon": "icon-link"
+    },
+    "carrusel": {
+      "height": "80px",
+      "width": "80px"
+    },
+    "redes": {
+        "colorPrincipal": "rgba(120, 211, 46, 0)",
+        "colorHover": "rgba(113, 199, 43, 0)",
+        "margin": "-5px",
+        "padding": "0",
+        "colorIconSVG": "#F9F9F9"
+    },
+    "footer": {
+      "colorTexto": "#F9F9F9",
+      "backgroundColor": "#1E1E1E",
+      "height": "10vh"
+    },
+    "compartir": {
+      "fondoIcon": "#1E1E1E",
+      "colorIcon":"#F9F9F9"
+    }
+  }
+  
+  
